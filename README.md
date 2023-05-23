@@ -41,4 +41,5 @@ With the traceback, you may find the source of the problem, or you can send it t
 
 ## About License
 
-The wiki, and tutorial are all right reserved.
+* The software is under GPL-3.0 license.
+* The wiki, and tutorials are all right reserved.
