@@ -32,6 +32,13 @@ This step really depend on the game you target, for now, good luck !
 
 [YTTM/SceneFromGIS](https://github.com/YTTM/SceneFromGIS)
 
+
+### Users FAQ
+Application crash and everything close before I can see any error.
+> Run the application using **Command Prompt** to get the full **Traceback**.
+With the traceback, you may find the source of the problem, or you can send it to me.
+
+
 ## About License
 
-🚧
+The wiki, and tutorial are all right reserved.
