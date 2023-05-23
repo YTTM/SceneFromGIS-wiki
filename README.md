@@ -24,6 +24,8 @@ To create maps for games, you will need to go through the following steps :
 ## Source Code
 
 [YTTM/SceneFromGIS](https://github.com/YTTM/SceneFromGIS)
+If you have a 404 error page, it means the source code is not yet released.
+We want to fix some details before allowing the fork.
 
 
 ### Users FAQ
