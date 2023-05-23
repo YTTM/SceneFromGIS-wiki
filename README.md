@@ -15,9 +15,9 @@ Create scenes for video game maps from real geographic data.
 
 To create maps for games, you will need to go through the following steps :
 
-#### [Get and prepare geographic data](Get%20and%20Prepare%20Data/GetandPrepareData.html) [🔗](Get%20and%20Prepare%20Data/GetandPrepareData.html) [📄 PDF](Get%20and%20Prepare%20Data/Get%20and%20Prepare%20Data.pdf)
+#### [Get and prepare geographic data 🔗](Get%20and%20Prepare%20Data/GetandPrepareData.html) [📄 PDF](Get%20and%20Prepare%20Data/Get%20and%20Prepare%20Data.pdf)
 
-#### [Convert geographic data using SceneFromGIS](Convert%20data%20using%20SceneFromGIS/ConvertdatausingSceneFromGIS.html) [🔗](Convert%20data%20using%20SceneFromGIS/ConvertdatausingSceneFromGIS.html) [📄 PDF](Convert%20data%20using%20SceneFromGIS/Convert%20data%20using%20SceneFromGIS.pdf)
+#### [Convert geographic data using SceneFromGIS 🔗](Convert%20data%20using%20SceneFromGIS/ConvertdatausingSceneFromGIS.html) [📄 PDF](Convert%20data%20using%20SceneFromGIS/Convert%20data%20using%20SceneFromGIS.pdf)
 
 #### 🚧 Import scene data to game editor
 
