@@ -5,7 +5,7 @@ Create scenes for video game maps from real geographic data.
 ![image](https://github.com/YTTM/SceneFromGIS-wiki/assets/120769366/51f2b0b4-0ef6-40a8-b584-76efe908ee01)
 
 
-## [Download current release (1.0)](https://14egaming.com/scenefromgis/SceneFromGIS_1_0.zip) [mega.nz mirror](https://mega.nz/file/7fxFXQJR#FAbasdpT6T_sAt_tQAIFqjUH1oLwbHqSseuy-vb_iqs)
+## [Download current release (1.0)](https://mega.nz/file/7fxFXQJR#FAbasdpT6T_sAt_tQAIFqjUH1oLwbHqSseuy-vb_iqs)
 
 ## Download any versions
 
@@ -33,7 +33,15 @@ We want to fix some details before allowing the fork.
 ### Users FAQ
 Application crash and everything close before I can see any error.
 > Run the application using **Command Prompt** to get the full **Traceback**.
-With the traceback, you may find the source of the problem, or you can send it to me.
+> With the traceback, you may find the source of the problem, or you can send it to me.
+
+Why is the ZIP file so big ? (± 500 Mo)
+> The pre-build binaries are build using PyInstaller which bundles a Python application and all its dependencies into a single package.
+> It mean that the single executable contains Python and thouthands of libraries files and scripts.
+
+Why does the program take so long to start ?
+> The pre-build binaries are build using PyInstaller which bundles a Python application and all its dependencies into a single package.
+> The program has to unpack everything before running the python script which can take some time.
 
 
 ## About License
