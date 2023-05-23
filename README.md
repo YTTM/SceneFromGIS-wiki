@@ -5,13 +5,13 @@ Create scenes for video game maps from real geographic data.
 ![image](https://github.com/YTTM/SceneFromGIS-wiki/assets/120769366/51f2b0b4-0ef6-40a8-b584-76efe908ee01)
 
 
-## [Download current release (1.0)](https://14egaming.com/scenefromgis/SceneFromGIS_1_0.zip)
+## [Download current release (1.0)](https://14egaming.com/scenefromgis/SceneFromGIS_1_0.zip) [mega.nz mirror](https://mega.nz/file/7fxFXQJR#FAbasdpT6T_sAt_tQAIFqjUH1oLwbHqSseuy-vb_iqs)
 
 ## Download any versions
 
-* [SceneFromGIS 1.0](https://14egaming.com/scenefromgis/SceneFromGIS_1_0.zip) [🦠](https://www.virustotal.com/gui/file/dbb420fa3e12851e17b2cf2175db637e916f08e9e1b7e12f77fcbb6a9692aa65)
-* [SceneFromGIS Beta 2](https://14egaming.com/scenefromgis/SceneFromGIS_Beta_2.zip) [🦠](https://www.virustotal.com/gui/file/b47c77b1b456b122a69f1c4cf0708b4d5042cf4a8913950e5e2a537854e6c254)
-* [SceneFromGIS Beta 1](https://14egaming.com/scenefromgis/SceneFromGIS_Beta_1.zip) [🦠](https://www.virustotal.com/gui/file/41ff426caa417ea0858ef7d88aa4f4b872734d46844b3647f944fec032a53c28)
+* [SceneFromGIS 1.0](https://14egaming.com/scenefromgis/SceneFromGIS_1_0.zip) [🦠](https://www.virustotal.com/gui/file/dbb420fa3e12851e17b2cf2175db637e916f08e9e1b7e12f77fcbb6a9692aa65) [mega.nz mirror](https://mega.nz/file/7fxFXQJR#FAbasdpT6T_sAt_tQAIFqjUH1oLwbHqSseuy-vb_iqs)
+* [SceneFromGIS Beta 2](https://14egaming.com/scenefromgis/SceneFromGIS_Beta_2.zip) [🦠](https://www.virustotal.com/gui/file/b47c77b1b456b122a69f1c4cf0708b4d5042cf4a8913950e5e2a537854e6c254) [mega.nz mirror](https://mega.nz/file/iTxUXIQB#sZQjnKh52rTiwludeLnHIAf-K33mq5LLK6fDHcjpYLs)
+* [SceneFromGIS Beta 1](https://14egaming.com/scenefromgis/SceneFromGIS_Beta_1.zip) [🦠](https://www.virustotal.com/gui/file/41ff426caa417ea0858ef7d88aa4f4b872734d46844b3647f944fec032a53c28) [mega.nz mirror](https://mega.nz/file/2boFkIoS#UjOyj_9bzGoYU5mm9uPliZqP9tSONVScmpnghK4FtKE)
 
 ## User Manual
 
