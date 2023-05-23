@@ -5,11 +5,13 @@ Create scenes for video game maps from real geographic data.
 ![image](https://github.com/YTTM/SceneFromGIS-wiki/assets/120769366/51f2b0b4-0ef6-40a8-b584-76efe908ee01)
 
 
-## [Download current release]()
+## [Download current release](https://14egaming.com/scenefromgis/SceneFromGIS_1_0.zip)
 
 ## Download older versions
 
-🚧
+* [SceneFromGIS 1.0](https://14egaming.com/scenefromgis/SceneFromGIS_1_0.zip)
+* [SceneFromGIS Beta 2](https://14egaming.com/scenefromgis/SceneFromGIS_Beta_2.zip)
+* [SceneFromGIS Beta 1](https://14egaming.com/scenefromgis/SceneFromGIS_Beta_1.zip)
 
 ## User Manual
 
