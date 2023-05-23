@@ -39,3 +39,10 @@ With the traceback, you may find the source of the problem, or you can send it t
 ## About License
 * The software is under GPL-3.0 license.
 * The wiki, and tutorials are all right reserved.
+
+
+## Social links
+
+<img src="https://forums.taleworlds.com/favicon.ico" width="24"> : [forums.taleworlds.com](https://forums.taleworlds.com/index.php?threads/scenefromgis-create-bannerlord-maps-from-real-geographic-data.458777/)  
+<img src="https://nexusmods.com/favicon.ico" width="24"> : [nexusmods.com](https://www.nexusmods.com/mountandblade2bannerlord/mods/5538)  
+<img src="https://moddb.com/favicon.ico" width="24"> : [moddb.com](https://www.moddb.com/mods/scenefromgis)  
