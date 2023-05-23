@@ -21,7 +21,11 @@ To create maps for games, you will need to go through the following steps :
 
 #### [Convert geographic data using SceneFromGIS 🔗](Convert%20data%20using%20SceneFromGIS/ConvertdatausingSceneFromGIS.html) [📄 PDF](Convert%20data%20using%20SceneFromGIS/Convert%20data%20using%20SceneFromGIS.pdf)
 
-#### 🚧 Import scene data to game editor
+#### Import scene data to game editor
+
+This step really depends on the game you're targeting, for now, good luck if the game you're targeting is not in the tutorials !
+
+#### [🚧 Import scene data to Bannerlord Modding Kit]()
 
 ## Source Code
 
