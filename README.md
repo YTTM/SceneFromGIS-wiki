@@ -2,6 +2,8 @@
 
 Create scenes for video game maps from real geographic data.
 
+![image](https://github.com/YTTM/SceneFromGIS-wiki/assets/120769366/51f2b0b4-0ef6-40a8-b584-76efe908ee01)
+
 
 ## [Download current release]()
 
