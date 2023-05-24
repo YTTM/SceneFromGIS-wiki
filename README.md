@@ -25,7 +25,8 @@ To create maps for games, you will need to go through the following steps :
 
 This step really depends on the game you're targeting, for now, good luck if the game you're targeting is not in the tutorials !
 
-#### [🚧 Import scene data to Bannerlord Modding Kit]()
+#### [Import scene data to Bannerlord Modding Kit 🔗](Import%20scene%20data%20to%20Bannerlord%20Modding%20Kit/ImportscenedatatoBannerlordModdingKit.html) [📄 PDF](Import%20scene%20data%20to%20Bannerlord%20Modding%20Kit/Import%20scene%20data%20to%20Bannerlord%20Modding%20Kit.pdf)
+
 
 ## Source Code
 
